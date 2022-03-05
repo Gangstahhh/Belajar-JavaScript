@@ -1,3 +1,5 @@
+//  Membuat Angkot Yang beroprasi dengan baik
+
 var jmlhAngkot = 10;
 var noAngkot = 1;
 

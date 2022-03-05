@@ -1,3 +1,6 @@
+// Membuat Angkot no 7 - 10 menjadi tidak beroprasi 
+// menggunakan while dan for
+
 var jmlhAngkot = 10
 var angkotBeroprasi = 6
 var noAngkot = 1
