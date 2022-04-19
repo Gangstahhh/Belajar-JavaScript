@@ -1,10 +1,17 @@
-var a =8;
-var b =3;
-var volumeA;
-var volumeB;
+// description
+function jumlahBilangan1(a,b){
+    var total;
+    total = a + b;
+    return total;
+}
 
-volumeA = a * a * a;
-volumeB = b * b * b;
+console.log(jumlahBilangan1(10,5));
 
-var total =volumeA + volumeB;
-console.log(total);
+// expresion
+var jumlahBilangan = function(a,b){
+    var total;
+    total = a + b;
+    return total;
+}
+
+console.log(jumlahBilangan(2,5))
